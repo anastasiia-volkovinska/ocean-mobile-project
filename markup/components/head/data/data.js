@@ -1,6 +1,8 @@
 head: {
     defaults: {
-        title: 'default title',
-        useSocialMetaTags: true
+        title: 'Ocean Casino',
+        description: 'Ocean Casino',
+        keywords: 'casino gambling money',
+        useSocialMetaTags: false
     }
 }
